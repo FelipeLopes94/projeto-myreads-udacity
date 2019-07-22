@@ -1,4 +1,4 @@
-# MyReads Project React
+# MyReads , Projeto em React
 *Projeto em construido ultilizando React para produzir um organizador de livros, podendo serem organizados como já "lidos, lendo atualmente, e ainda quero ler".
 
 
