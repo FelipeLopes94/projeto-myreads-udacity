@@ -61,7 +61,7 @@ class Livro extends React.Component {
                 onChange={this.handleChange}
               >
                 <option value="none" disabled>
-                  Mover para...
+                  none...
                 </option> //Box com opção de onde mandar o livro
                 <option value="currentlyReading">Lendo atualmente</option>
                 <option value="wantToRead">Ainda Quero Ler</option>
