@@ -60,8 +60,8 @@ class Livro extends React.Component {
                 defaultValue={this.mapShelf(book)}
                 onChange={this.handleChange}
               >
-                <option value="none" disabled>
-                  none...
+                <option disabled>
+                  Mover para...
                 </option> //Box com opção de onde mandar o livro
                 <option value="currentlyReading">Lendo atualmente</option>
                 <option value="wantToRead">Ainda Quero Ler</option>
